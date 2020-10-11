@@ -12,6 +12,9 @@ Sample application contain 3 users with ids: 1,2 and 3.
 - To view accounts of user with id 1, navigate to http://localhost:8080/api/accounts/1
 - To view transactions of account 123, navigate to http://localhost:8080/api/accounts/1/123
 
+# Prerequisites
+- JDK 1.8
+- Maven
 
 # Installation Instructions
 1. Download and extract Zip File
